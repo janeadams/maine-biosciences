@@ -19,7 +19,7 @@ Aileen has been coalescing data [here](https://docs.google.com/spreadsheets/d/1E
 - [stream to universities](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEi4WHuBLMmfMxC42GLZoKo6aHLFRMTMejbcIeAu_Pk099O7hglas-K2hiGxiw65nJ7fJJMV_LMiOV/pub?gid=180963330&single=true&output=csv)
 - [universities](https://docs.google.com/spreadsheets/d/e/2PACX-1vQEi4WHuBLMmfMxC42GLZoKo6aHLFRMTMejbcIeAu_Pk099O7hglas-K2hiGxiw65nJ7fJJMV_LMiOV/pub?gid=1811364362&single=true&output=csv)
 
-I aggregated these datasets in agg.ipynb and started visualizing them in vis.ipynb. I also wrote some code to scrape US New & World Report to try to back-fill some of the missing university data.
+I aggregated these datasets in agg.ipynb and started visualizing them but didn't get very far (mostly just performed preliminary data cleaning to output the correct nodelist / edgelist format for a network graph). I also wrote some code to scrape US New & World Report to try to back-fill some of the missing university data.
 
 # TODOS:
 
