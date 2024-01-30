@@ -1,0 +1,209 @@
+id,label,type,latitude,longitude,targets,x,y
+u1,Bates College,university,44.10572,-70.2022,"['s3', 's4', 's6', 's7', 's25', 's76', 's11', 's12', 's13', 's24', 's27', 's28', 's30', 's32', 's33', 's34', 's37']",-1,0.0
+u2,Beal College,university,44.78626,-68.7855,"['s39', 's41', 's42', 's43']",-1,3.7037037037037037
+u3,Bowdoin College,university,43.90769,-69.964,"['s3', 's25', 's4', 's7', 's6', 's51', 's76', 's11', 's12', 's53', 's13', 's24', 's27', 's57', 's28', 's30', 's58', 's34', 's59', 's337', 's37']",-1,7.407407407407407
+u4,Colby College,university,44.56387,-69.6626,"['s3', 's4', 's6', 's7', 's51', 's11', 's12', 's13', 's25', 's67', 's70', 's24', 's337', 's27', 's28', 's30', 's32', 's34', 's76', 's37', 's78', 's80']",-1,11.11111111111111
+u5,College of the Atlantic,university,44.39503,-68.2215,"['s6', 's82', 's83', 's4', 's12', 's25', 's87', 's337', 's92', 's76', 's27', 's42']",-1,14.814814814814815
+u6,Saint Joseph's College,university,43.82636,-70.4833,"['s42', 's12', 's39', 's101', 's76', 's105']",-1,18.51851851851852
+u7,Maine Media College,university,44.19342,-69.0763,['s4'],-1,22.22222222222222
+u8,Maine College of Health Professions,university,44.10049,-70.2176,"['s39', 's76']",-1,25.925925925925927
+u9,Maine Maritime Academy,university,44.38859,-68.8035,"['s39', 's25', 's76', 's27', 's123', 's42', 's127', 's6', 's53']",-1,29.62962962962963
+u10,Maine College of Art,university,43.6557,-70.2606,"['s142', 's4', 's3', 's146', 's337', 's149', 's150', 's151', 's152', 's28', 's76', 's154', 's30', 's155', 's156', 's157', 's158', 's164']",-1,33.333333333333336
+u11,New England Bible College,university,43.62445,-70.2515,"['s25', 's4']",-1,37.03703703703704
+u12,Husson University,university,44.82779,-68.7937,"['s170', 's127', 's25', 's76', 's175', 's39', 's337', 's178', 's6', 's7', 's34']",-1,40.74074074074074
+u13,Salt Institute for Documentary Studies,university,43.65569,-70.2608,"['s4', 's187', 's188']",-1,44.44444444444444
+u14,Southern New Hampshire University - Brunswick/Winter Harbor,university,44.39479,-68.083,[],-1,48.148148148148145
+u15,Thomas College,university,44.52476,-69.6631,"['s170', 's27', 's42', 's4', 's175', 's51', 's197', 's198', 's127', 's200', 's12', 's13', 's203', 's25', 's205', 's206', 's76', 's34']",-1,51.851851851851855
+u16,Unity College,university,43.90576,-70.2571,"['s39', 's76', 's216', 's25', 's6', 's127', 's222', 's223', 's226']",-1,55.55555555555556
+u17,University of Maine - Orono,university,44.90187,-68.6688,"['s337', 's12', 's233', 's3', 's4', 's175', 's7', 's51', 's13', 's237', 's24', 's239', 's240', 's241', 's27', 's25', 's28', 's30', 's32', 's76', 's246', 's34', 's37', 's53', 's170', 's206', 's127', 's264', 's6', 's11', 's266', 's270', 's272', 's39', 's223', 's279', 's280']",-1,59.25925925925926
+u18,University of Maine at Augusta,university,44.33791,-69.7965,"['s4', 's6', 's42', 's51', 's198', 's12', 's53', 's13', 's25', 's39', 's76', 's284', 's285', 's291']",-1,62.96296296296296
+u19,University of Maine at Farmington,university,44.90187,-68.6688,"['s3', 's4', 's6', 's42', 's51', 's12', 's13', 's24', 's25', 's28', 's39', 's76', 's246', 's34', 's293', 's296', 's297', 's298', 's303', 's53', 's337', 's311', 's315', 's316']",-1,66.66666666666667
+u20,University of Maine at Fort Kent,university,47.25039,-68.5893,"['s6', 's216', 's12', 's25', 's39', 's127', 's4', 's76', 's51', 's325']",-1,70.37037037037037
+u21,University of Maine at Machias,university,44.70806,-67.4561,"['s25', 's12', 's6', 's53', 's39', 's4', 's329', 's127']",-1,74.07407407407408
+u22,University of Maine at Presque Isle,university,46.6701,-68.0159,"['s170', 's76', 's4', 's6', 's42', 's51', 's197', 's198', 's53', 's307', 's13', 's25', 's39', 's27', 's12', 's336', 's337', 's127', 's343']",-1,77.77777777777777
+u23,University of Maine Cooperative Extension,university,44.90187,-68.6688,"['s279', 's42', 's39', 's337', 's352']",-1,81.48148148148148
+u24,University of Maine System,university,44.66759,-70.1474,[],-1,85.18518518518519
+u25,University of New England,university,43.45829,-70.3865,"['s27', 's7', 's179', 's42', 's4', 's12', 's13', 's25', 's24', 's39', 's76', 's34', 's37', 's279', 's361', 's362', 's6', 's127']",-1,88.88888888888889
+u26,University of Southern Maine,university,43.6619,-70.2757,"['s170', 's4', 's3', 's78', 's6', 's7', 's175', 's51', 's361', 's198', 's11', 's12', 's13', 's25', 's206', 's39', 's24', 's127', 's264', 's27', 's53', 's28', 's337', 's58', 's76', 's34', 's37', 's279', 's390', 's395', 's399', 's223']",-1,92.5925925925926
+u27,Heartwood College of Art,university,43.49336,-70.4512,[],-1,96.29629629629629
+s3,Anthropology,stream,,,[],0,0.0
+s4,Art and Visual Culture,stream,,,[],0,1.0416666666666667
+s6,Biology,stream,,,"['c6', 'c8', 'c16', 'c20', 'c29', 'c35', 'c37', 'c38', 'c39', 'c41', 'c42', 'c43', 'c46', 'c50', 'c51', 'c54', 'c55', 'c56', 'c57', 'c59', 'c60', 'u1', 'u3', 'u4', 'u5', 'u9', 'u12', 'u16', 'u17', 'u18', 'u19', 'u20', 'u21', 'u22', 'u25', 'u26']",0,2.0833333333333335
+s7,Chemistry and Laboratory Sciences,stream,,,"['c1', 'c5', 'c6', 'c9', 'c13', 'c14', 'c16', 'c18', 'c19', 'c20', 'c23', 'c29', 'c33', 'c34', 'c35', 'c36', 'c37', 'c38', 'c39', 'c40', 'c42', 'c46', 'c50', 'c53', 'u1', 'u3', 'u4', 'u12', 'u17', 'u25', 'u26']",0,3.125
+s11,Economics,stream,,,[],0,4.166666666666667
+s12,Education,stream,,,[],0,5.208333333333334
+s13,English,stream,,,[],0,6.25
+s24,History,stream,,,[],0,7.291666666666667
+s25,Interdisciplinary Studies,stream,,,"['c28', 'c41', 'c56', 'c57', 'c59', 'u1', 'u3', 'u4', 'u5', 'u9', 'u11', 'u12', 'u15', 'u16', 'u17', 'u18', 'u19', 'u20', 'u21', 'u22', 'u25', 'u26']",0,8.333333333333334
+s27,Mathematics,stream,,,[],0,9.375
+s28,Music,stream,,,"['c43', 'u1', 'u3', 'u4', 'u10', 'u17', 'u19', 'u26']",0,10.416666666666668
+s30,Philosophy,stream,,,[],0,11.458333333333334
+s32,Physics and Astronomy,stream,,,[],0,12.5
+s33,Politics,stream,,,[],0,13.541666666666668
+s34,Psychology,stream,,,[],0,14.583333333333334
+s37,Sociology,stream,,,[],0,15.625000000000002
+s39,Healthcare,stream,,,"['c4', 'c11', 'c14', 'c20', 'c24', 'c43', 'c44', 'c47', 'c48', 'c49', 'c50', 'c51', 'c52', 'c53', 'c55', 'c59', 'u2', 'u6', 'u8', 'u9', 'u12', 'u16', 'u17', 'u18', 'u19', 'u20', 'u21', 'u22', 'u23', 'u25', 'u26']",0,16.666666666666668
+s41,Medicine and Biotechnology,stream,,,"['c11', 'c13', 'c14', 'c17', 'c18', 'c20', 'c21', 'c23', 'c24', 'c25', 'c26', 'c29', 'c30', 'c31', 'c32', 'c34', 'c36', 'c37', 'c38', 'c40', 'c42', 'c43', 'c44', 'c45', 'c46', 'c48', 'c50', 'c53', 'c59', 'u2']",0,17.708333333333336
+s42,Business,stream,,,"['c14', 'c28', 'c37', 'u2', 'u5', 'u6', 'u9', 'u15', 'u18', 'u19', 'u22', 'u23', 'u25']",0,18.75
+s43,Welding,stream,,,"['c22', 'u2']",0,19.791666666666668
+s51,Computer Science,stream,,,"['c10', 'c14', 'c33', 'c37', 'c54', 'u3', 'u4', 'u15', 'u17', 'u18', 'u19', 'u20', 'u22', 'u26']",0,20.833333333333336
+s53,Engineering,stream,,,"['c5', 'c6', 'c7', 'c10', 'c12', 'c15', 'c17', 'c18', 'c19', 'c22', 'c26', 'c27', 'c28', 'c37', 'c40', 'c47', 'c48', 'c49', 'c58', 'u3', 'u9', 'u17', 'u18', 'u19', 'u21', 'u22', 'u26']",0,21.875
+s58,Physics,stream,,,[],0,22.916666666666668
+s59,Religion,stream,,,[],0,23.958333333333336
+s67,Geology,stream,,,"['c3', 'c60', 'u4']",0,25.0
+s70,Government,stream,,,[],0,26.041666666666668
+s76,"Science, Technology, and Society",stream,,,"['c12', 'c19', 'c21', 'c28', 'c31', 'c32', 'c41', 'c43', 'c44', 'c45', 'c46', 'c47', 'c48', 'c49', 'c51', 'c55', 'c56', 'c57', 'c58', 'c59', 'u1', 'u3', 'u4', 'u5', 'u6', 'u8', 'u9', 'u10', 'u12', 'u15', 'u16', 'u17', 'u18', 'u19', 'u20', 'u22', 'u25', 'u26']",0,27.083333333333336
+s78,Statistics,stream,,,[],0,28.125000000000004
+s80,Writing Department,stream,,,[],0,29.166666666666668
+s82,Climate Change & Energy,stream,,,"['c41', 'u5']",0,30.208333333333336
+s83,Community Planning & Ecological Policy,stream,,,"['c42', 'u5']",0,31.250000000000004
+s87,Ethnography & Documentary,stream,,,[],0,32.29166666666667
+s92,Languages,stream,,,[],0,33.333333333333336
+s101,Leadership for sustainable development,stream,,,"['c55', 'u6']",0,34.375
+s105,Theology,stream,,,[],0,35.41666666666667
+s127,Management,stream,,,"['c19', 'c20', 'c22', 'c28', 'c31', 'c32', 'c51', 'c54', 'c55', 'c60', 'u9', 'u12', 'u15', 'u16', 'u17', 'u20', 'u21', 'u22', 'u25', 'u26']",0,36.458333333333336
+s142,Academic Affairs,stream,,,[],0,37.5
+s146,Ceramics,stream,,,[],0,38.54166666666667
+s149,Graphic Design,stream,,,[],0,39.583333333333336
+s150,Humanities,stream,,,[],0,40.625
+s151,Illustration,stream,,,[],0,41.66666666666667
+s152,Metalsmithing & Jewelry,stream,,,"['c2', 'c22', 'u10']",0,42.708333333333336
+s154,Painting,stream,,,[],0,43.75
+s155,Photography,stream,,,[],0,44.79166666666667
+s156,Printmaking,stream,,,[],0,45.833333333333336
+s157,Public Engagement,stream,,,"['c56', 'c57', 'u10']",0,46.875
+s158,Sculpture,stream,,,[],0,47.91666666666667
+s164,World History,stream,,,[],0,48.958333333333336
+s170,Accounting,stream,,,"['c3', 'c28', 'u12', 'u15', 'u17', 'u22', 'u26']",0,50.0
+s175,Communications,stream,,,[],0,51.04166666666667
+s179,Athletic Training,stream,,,"['c49', 'u25']",0,52.083333333333336
+s187,Podcasting,stream,,,[],0,53.12500000000001
+s188,Radio,stream,,,[],0,54.16666666666667
+s197,Criminal Justice,stream,,,[],0,55.208333333333336
+s198,Cybersecurity,stream,,,"['c37', 'u15', 'u18', 'u22', 'u26']",0,56.25000000000001
+s200,Digital Media,stream,,,"['c51', 'u15']",0,57.29166666666667
+s203,Entrepreneurship,stream,,,"['c28', 'u15']",0,58.333333333333336
+s205,Esports and Gaming Administration,stream,,,[],0,59.37500000000001
+s206,Finance,stream,,,[],0,60.41666666666667
+s216,Conservation Law Enforcement,stream,,,"['c41', 'u16', 'u20']",0,61.458333333333336
+s222,Sustainable Horticulture,stream,,,"['c41', 'u16']",0,62.50000000000001
+s223,Tourism Destination Management,stream,,,[],0,63.54166666666667
+s226,Climate Change Adaptation & Resilience,stream,,,"['c3', 'c41', 'u16']",0,64.58333333333334
+s233,Kinesiology and Physical Educaiton,stream,,,[],0,65.625
+s237,Explorations,stream,,,"['c52', 'c55', 'u17']",0,66.66666666666667
+s239,Human Dimensions of Climate Change,stream,,,[],0,67.70833333333334
+s240,International Affairs,stream,,,[],0,68.75
+s241,Journalism,stream,,,[],0,69.79166666666667
+s246,Pre-Law,stream,,,[],0,70.83333333333334
+s264,Marketing,stream,,,"['c28', 'u17', 'u26']",0,71.875
+s266,Botany,stream,,,"['c39', 'c41', 'c52', 'c53', 'c60', 'u17']",0,72.91666666666667
+s270,Financial Economics,stream,,,[],0,73.95833333333334
+s272,Forestry,stream,,,"['c41', 'u17']",0,75.0
+s279,Sustainable Agriculture,stream,,,"['c3', 'c36', 'c39', 'c41', 'c42', 'c54', 'c60', 'u17', 'u23', 'u25', 'u26']",0,76.04166666666667
+s280,Sustainable Food Systems,stream,,,"['c36', 'c39', 'c41', 'c42', 'u17']",0,77.08333333333334
+s284,Architecture,stream,,,"['c12', 'u18']",0,78.125
+s285,Aviation,stream,,,[],0,79.16666666666667
+s291,Public Administration,stream,,,[],0,80.20833333333334
+s293,Alpine Operations,stream,,,[],0,81.25
+s296,Chiropractic,stream,,,[],0,82.29166666666667
+s297,Counseling,stream,,,[],0,83.33333333333334
+s303,Counseling Psychology,stream,,,[],0,84.375
+s307,Energy Development & Policy,stream,,,"['c12', 'u22']",0,85.41666666666667
+s311,Pre-MBA,stream,,,[],0,86.45833333333334
+s315,Web Media & Design,stream,,,[],0,87.5
+s316,World Languages,stream,,,[],0,88.54166666666667
+s325,Rural Public Safety Administration,stream,,,[],0,89.58333333333334
+s329,Outdoor Recreation & Leadership,stream,,,[],0,90.625
+s336,Geographic Information Systems,stream,,,"['c60', 'u22']",0,91.66666666666667
+s337,Human Services,stream,,,"['c52', 'c54', 'c58', 'u3', 'u4', 'u5', 'u10', 'u12', 'u17', 'u19', 'u22', 'u23', 'u26']",0,92.70833333333334
+s343,Professional Communciation and Journalism,stream,,,[],0,93.75
+s352,Natural Resources,stream,,,"['c3', 'c41', 'c60', 'u23']",0,94.79166666666667
+s361,Criminology,stream,,,[],0,95.83333333333334
+s362,Data Science,stream,,,"['c4', 'c11', 'c14', 'u25']",0,96.875
+s390,Sustainable Cultures and Communities,stream,,,"['c12', 'c39', 'c52', 'c58', 'c60', 'u26']",0,97.91666666666667
+s395,Linguistics,stream,,,[],0,98.95833333333334
+c1,Clariant,company,44.0574447,-70.1355692,['s7'],1,0.0
+c2,Acme Monaco Corporation,company,46.7014374,-68.042126,['s152'],1,1.1764705882352942
+c3,Arookstook Testing & Consulting Lab,company,46.6909419,-68.0327619,"['s226', 's352', 's67', 's170', 's279']",1,2.3529411764705883
+c4,Abbot Diagnostics of Scarborough,company,43.5802589,-70.3642194,"['s39', 's362']",1,3.5294117647058822
+c5,Artel,company,43.6633909,-70.3662731,"['s7', 's53']",1,4.705882352941177
+c6,Biochek USA Corporation,company,43.5787459,-70.3666206,"['s6', 's7', 's53']",1,5.882352941176471
+c7,CAPE Technologies,company,43.6252173,-70.2863513,['s53'],1,7.0588235294117645
+c8,Dermalogix Partners,company,43.5663297,-70.392193,['s6'],1,8.23529411764706
+c9,Emerson Apparatus,company,43.6808161,-70.3973913,['s7'],1,9.411764705882353
+c10,Enercon Technologies,company,43.8850345,-70.3424999,"['s51', 's53']",1,10.588235294117647
+c11,Fluid Imaging Technologies,company,43.588282,-70.3545764,"['s39', 's41', 's362']",1,11.764705882352942
+c12,Formworks,company,43.7996263,-70.1830469,"['s390', 's307', 's76', 's53', 's284']",1,12.941176470588236
+c13,Global Biotechnologies,company,43.6038289,-70.3002711,"['s7', 's41']",1,14.117647058823529
+c14,IDEXX,company,43.6626717,-70.375438,"['s7', 's39', 's41', 's42', 's51', 's362']",1,15.294117647058824
+c15,Insightful Products,company,43.5801441,-70.3584382,['s53'],1,16.47058823529412
+c16,InSphero,company,43.8931949,-69.9316428,"['s6', 's7']",1,17.647058823529413
+c17,Leiner Optics,company,43.6265749,-70.2186163,"['s41', 's53']",1,18.823529411764707
+c18,LGC Maine Standards,company,43.7703928,-70.2011678,"['s41', 's7', 's53']",1,20.0
+c19,Lighthouse Imaging,company,43.8367541,-70.4382223,"['s7', 's53', 's76', 's127']",1,21.176470588235293
+c20,ME Medical Center Research Institute,company,43.6083314,-70.3976368,"['s6', 's7', 's39', 's41', 's127']",1,22.35294117647059
+c21,Optimum Imaging Diagnostics,company,43.6066174,-70.3183389,"['s41', 's76']",1,23.529411764705884
+c22,Saunders Electronics,company,43.6386549,-70.3592325,"['s152', 's43', 's53', 's127']",1,24.705882352941178
+c23,SDIX,company,43.7282447,-70.3755035,"['s7', 's41']",1,25.88235294117647
+c24,Sea Run Holdings,company,43.8260282,-70.1135733,"['s39', 's41']",1,27.058823529411764
+c25,Spirometrics Medical Equipment,company,43.8884179,-70.332511,['s41'],1,28.235294117647058
+c26,Sun Diagnostics,company,43.9029309,-70.2565096,"['s41', 's53']",1,29.411764705882355
+c27,Syris Scientific,company,43.8884179,-70.332511,['s53'],1,30.58823529411765
+c28,TechPlace,company,43.8931949,-69.9316428,"['s25', 's42', 's53', 's76', 's127', 's170', 's203', 's264']",1,31.764705882352942
+c29,Virostat,company,43.6596283,-70.3816074,"['s6', 's7', 's41']",1,32.94117647058824
+c30,VueTek Scientific,company,43.8884179,-70.332511,['s41'],1,34.11764705882353
+c31,BBI Solutions,company,43.6830644,-70.2898099,"['s41', 's76', 's127']",1,35.294117647058826
+c32,Bio Rad,company,43.7092924,-70.3143737,"['s41', 's76', 's127']",1,36.470588235294116
+c33,BioAnalyte,company,43.6697703,-70.2472608,"['s51', 's7']",1,37.64705882352941
+c34,Butterfield Technologies,company,43.6541005,-70.2636987,"['s7', 's41']",1,38.82352941176471
+c35,Capricorn Products,company,43.7105185,-70.3048929,"['s6', 's7']",1,40.0
+c36,Clear H20,company,43.6643899,-70.3718824,"['s41', 's279', 's280', 's7']",1,41.1764705882353
+c37,Covetrus,company,43.657593,-70.2508959,"['s6', 's7', 's41', 's42', 's51', 's53', 's198']",1,42.35294117647059
+c38,Dechra,company,43.6576977,-70.2583003,"['s41', 's6', 's7']",1,43.529411764705884
+c39,EnviroLogix,company,43.7141902,-70.3053803,"['s6', 's7', 's390', 's279', 's280', 's266']",1,44.70588235294118
+c40,Gray Optics,company,43.7075752,-70.3163305,"['s7', 's41', 's53']",1,45.88235294117647
+c41,Gulf of Maine Research Institute,company,43.6518133,-70.2563226,"['s6', 's76', 's82', 's222', 's216', 's226', 's266', 's272', 's279', 's25', 's280', 's352']",1,47.05882352941177
+c42,ImmuCell,company,43.7077348,-70.3135716,"['s6', 's7', 's41', 's83', 's279', 's280']",1,48.23529411764706
+c43,MedRhythms,company,43.6576744,-70.2552393,"['s6', 's28', 's39', 's41', 's76']",1,49.411764705882355
+c44,Nova Analytic Labs,company,43.7045157,-70.3037835,"['s41', 's76', 's39']",1,50.58823529411765
+c45,RockStep Solutions,company,43.6561255,-70.2584736,"['s41', 's76']",1,51.76470588235294
+c46,SolidPhase,company,43.7092105,-70.3144215,"['s6', 's7', 's41', 's76']",1,52.94117647058824
+c47,Solstice Corporation,company,43.6618868,-70.2658418,"['s53', 's76', 's39']",1,54.11764705882353
+c48,Molnlycke,company,43.8982621,-69.9294408,"['s39', 's41', 's53', 's76']",1,55.294117647058826
+c49,Armaid,company,44.4414807,-68.6102518,"['s53', 's76', 's179', 's39']",1,56.470588235294116
+c50,Coagulation Sciences,company,44.4326083,-68.2893606,"['s6', 's7', 's39', 's41']",1,57.64705882352941
+c51,GenoTyping Center of America,company,44.534764,-68.4199156,"['s76', 's127', 's6', 's39', 's200']",1,58.82352941176471
+c52,MDI Biological Laboratory,company,44.4326083,-68.2893606,"['s390', 's337', 's266', 's237', 's39']",1,60.0
+c53,NovoBiosciences,company,44.4302752,-68.2888054,"['s7', 's39', 's41', 's266']",1,61.1764705882353
+c54,Tempshield,company,44.4475439,-68.3714767,"['s337', 's279', 's127', 's51', 's6']",1,62.35294117647059
+c55,The Jackson Laboratory,company,44.3640318,-68.1960496,"['s6', 's39', 's76', 's101', 's127', 's237']",1,63.529411764705884
+c56,Bushover Biologicals,company,44.3961116,-69.6454703,"['s25', 's6', 's76', 's157']",1,64.70588235294117
+c57,Elanco,company,44.527708,-69.6192963,"['s25', 's6', 's76', 's157']",1,65.88235294117648
+c58,Global Protien Products,company,44.5496507,-69.6301114,"['s390', 's337', 's76', 's53']",1,67.05882352941177
+c59,Notheast Laboratory Services,company,44.5321184,-69.6232672,"['s6', 's25', 's41', 's39', 's76']",1,68.23529411764706
+c60,Woods End Laboratories,company,44.5121616,-69.9623441,"['s390', 's352', 's336', 's279', 's266', 's127', 's6', 's67']",1,69.41176470588236
+c61,Lonza,company,44.0910198,-69.1261492,[],1,70.58823529411765
+c62,Bigelow Laboratory for Ocean Sciences,company,43.859725,-69.5800872,[],1,71.76470588235294
+c63,Consultox Limited,company,44.038433,-69.4936914,[],1,72.94117647058823
+c64,Maine Medicinals,company,44.1079172,-69.7250291,[],1,74.11764705882354
+c65,Physician Engineered Products,company,44.0090726,-70.9766058,[],1,75.29411764705883
+c66,Wellomics,company,44.5711545,-68.7875829,[],1,76.47058823529412
+c67,Activas Diagnostics,company,44.8988658,-68.6832262,[],1,77.64705882352942
+c68,Cerahelix,company,44.8988658,-68.6832262,[],1,78.82352941176471
+c69,Dahl Chase,company,44.8073463,-68.7524108,[],1,80.0
+c70,Lobster Unlimited,company,44.7767302,-68.7321679,[],1,81.17647058823529
+c71,Neuright,company,44.8988658,-68.6832262,[],1,82.3529411764706
+c72,Orono Spectral Solutions,company,44.7959021,-68.8461039,[],1,83.52941176470588
+c73,Sensor Research & Development,company,44.9016197,-68.6885771,[],1,84.70588235294117
+c74,Puritan Medical Products,company,45.1690528,-69.392789,[],1,85.88235294117648
+c75,FHC,company,44.0331704,-69.9608948,[],1,87.05882352941177
+c76,Kennebec River Biosciences,company,44.0879691,-69.8008231,[],1,88.23529411764706
+c77,Beacon Analytical Systems,company,43.5329698,-70.4458761,[],1,89.41176470588236
+c78,Corning Life Sciences,company,43.4036462,-70.5656702,[],1,90.58823529411765
+c79,East Coast BIO,company,43.3071501,-70.7195883,[],1,91.76470588235294
+c80,GVS,company,43.4043635,-70.6984573,[],1,92.94117647058823
+c81,L A W  Calibration,company,43.5357876,-70.4314731,[],1,94.11764705882354
+c82,ME Molecular Quality Controls,company,43.529808,-70.416901,[],1,95.29411764705883
+c83,Purist,company,43.4378551,-70.4558393,[],1,96.47058823529412
+c84,Spin Analytical,company,43.2368859,-70.8054684,[],1,97.64705882352942
+c85,The Baker Company,company,43.3910357,-70.7198524,[],1,98.82352941176471

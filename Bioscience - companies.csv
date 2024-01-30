@@ -1,0 +1,86 @@
+company_id,company,city,state,county,comp_latitude,comp_longitude
+c1,Clariant,Lewiston,Maine,Androscoggin,44.0574447,-70.1355692
+c2,Acme Monaco Corporation,Presque Isle,Maine,Aroostook,46.7014374,-68.042126
+c3,Arookstook Testing & Consulting Lab,Presque Isle,Maine,Aroostook,46.6909419,-68.0327619
+c4,Abbot Diagnostics of Scarborough,Scarborough,Maine,Cumberland,43.5802589,-70.3642194
+c5,Artel,Westbrook,Maine,Cumberland,43.6633909,-70.3662731
+c6,Biochek USA Corporation,Scarborough,Maine,Cumberland,43.5787459,-70.3666206
+c7,CAPE Technologies,South Portland,Maine,Cumberland,43.6252173,-70.2863513
+c8,Dermalogix Partners,Scarborough,Maine,Cumberland,43.5663297,-70.392193
+c9,Emerson Apparatus,Gorham,Maine,Cumberland,43.6808161,-70.3973913
+c10,Enercon Technologies,Gray,Maine,Cumberland,43.8850345,-70.3424999
+c11,Fluid Imaging Technologies,Scarborough,Maine,Cumberland,43.588282,-70.3545764
+c12,Formworks,Yarmouth,Maine,Cumberland,43.7996263,-70.1830469
+c13,Global Biotechnologies,Scarborough,Maine,Cumberland,43.6038289,-70.3002711
+c14,IDEXX,Westbrook,Maine,Cumberland,43.6626717,-70.375438
+c15,Insightful Products,Scarborough,Maine,Cumberland,43.5801441,-70.3584382
+c16,InSphero,Brunswick,Maine,Cumberland,43.8931949,-69.9316428
+c17,Leiner Optics,Cape Elizabeth,Maine,Cumberland,43.6265749,-70.2186163
+c18,LGC Maine Standards,Cumberland Foreside,Maine,Cumberland,43.7703928,-70.2011678
+c19,Lighthouse Imaging,Windham,Maine,Cumberland,43.8367541,-70.4382223
+c20,ME Medical Center Research Institute,Scarborough,Maine,Cumberland,43.6083314,-70.3976368
+c21,Optimum Imaging Diagnostics,Scarborough,Maine,Cumberland,43.6066174,-70.3183389
+c22,Saunders Electronics,South Portland,Maine,Cumberland,43.6386549,-70.3592325
+c23,SDIX,Windham,Maine,Cumberland,43.7282447,-70.3755035
+c24,Sea Run Holdings,Freeport,Maine,Cumberland,43.8260282,-70.1135733
+c25,Spirometrics Medical Equipment,Gray,Maine,Cumberland,43.8884179,-70.332511
+c26,Sun Diagnostics,New Gloucester,Maine,Cumberland,43.9029309,-70.2565096
+c27,Syris Scientific,Gray,Maine,Cumberland,43.8884179,-70.332511
+c28,TechPlace,Brunswick,Maine,Cumberland,43.8931949,-69.9316428
+c29,Virostat,Westbrook,Maine,Cumberland,43.6596283,-70.3816074
+c30,VueTek Scientific,Gray,Maine,Cumberland,43.8884179,-70.332511
+c31,BBI Solutions,Portland,Maine,Cumberland,43.6830644,-70.2898099
+c32,Bio Rad,Portland,Maine,Cumberland,43.7092924,-70.3143737
+c33,BioAnalyte,Portland,Maine,Cumberland,43.6697703,-70.2472608
+c34,Butterfield Technologies,Portland,Maine,Cumberland,43.6541005,-70.2636987
+c35,Capricorn Products,Portland,Maine,Cumberland,43.7105185,-70.3048929
+c36,Clear H20,Portland,Maine,Cumberland,43.6643899,-70.3718824
+c37,Covetrus,Portland,Maine,Cumberland,43.657593,-70.2508959
+c38,Dechra,Portland,Maine,Cumberland,43.6576977,-70.2583003
+c39,EnviroLogix,Portland,Maine,Cumberland,43.7141902,-70.3053803
+c40,Gray Optics,Portland,Maine,Cumberland,43.7075752,-70.3163305
+c41,Gulf of Maine Research Institute,Portland,Maine,Cumberland,43.6518133,-70.2563226
+c42,ImmuCell,Portland,Maine,Cumberland,43.7077348,-70.3135716
+c43,MedRhythms,Portland,Maine,Cumberland,43.6576744,-70.2552393
+c44,Nova Analytic Labs,Portland,Maine,Cumberland,43.7045157,-70.3037835
+c45,RockStep Solutions,Portland,Maine,Cumberland,43.6561255,-70.2584736
+c46,SolidPhase,Portland,Maine,Cumberland,43.7092105,-70.3144215
+c47,Solstice Corporation,Portland,Maine,Cumberland,43.6618868,-70.2658418
+c48,Molnlycke,Brunswick/Wiscasset,Maine,Cumberland/Lincoln,43.8982621,-69.9294408
+c49,Armaid,Blue Hill,Maine,Hancock,44.4414807,-68.6102518
+c50,Coagulation Sciences,Bar Harbor,Maine,Hancock,44.4326083,-68.2893606
+c51,GenoTyping Center of America,Ellsworth,Maine,Hancock,44.534764,-68.4199156
+c52,MDI Biological Laboratory,Bar Harbor,Maine,Hancock,44.4326083,-68.2893606
+c53,NovoBiosciences,Bar Harbor,Maine,Hancock,44.4302752,-68.2888054
+c54,Tempshield,Trenton,Maine,Hancock,44.4475439,-68.3714767
+c55,The Jackson Laboratory,Bar Harbor,Maine,Hancock,44.3640318,-68.1960496
+c56,Bushover Biologicals,Vassalboro,Maine,Kennebec,44.3961116,-69.6454703
+c57,Elanco,Winslow,Maine,Kennebec,44.527708,-69.6192963
+c58,Global Protien Products,Waterville,Maine,Kennebec,44.5496507,-69.6301114
+c59,Notheast Laboratory Services,Winslow,Maine,Kennebec,44.5321184,-69.6232672
+c60,Woods End Laboratories,Mt Vernon,Maine,Kennebec,44.5121616,-69.9623441
+c61,Lonza,Rockland,Maine,Knox,44.0910198,-69.1261492
+c62,Bigelow Laboratory for Ocean Sciences,East Boothbay,Maine,Lincoln,43.859725,-69.5800872
+c63,Consultox Limited,Damariscotta,Maine,Lincoln,44.038433,-69.4936914
+c64,Maine Medicinals,Dresden,Maine,Lincoln,44.1079172,-69.7250291
+c65,Physician Engineered Products,Fryeburg,Maine,Oxford,44.0090726,-70.9766058
+c66,Wellomics,Bethel,Maine,Oxford,44.5711545,-68.7875829
+c67,Activas Diagnostics,Orono,Maine,Penobscot,44.8988658,-68.6832262
+c68,Cerahelix,Orono,Maine,Penobscot,44.8988658,-68.6832262
+c69,Dahl Chase,Bangor,Maine,Penobscot,44.8073463,-68.7524108
+c70,Lobster Unlimited,Brewer,Maine,Penobscot,44.7767302,-68.7321679
+c71,Neuright,Orono,Maine,Penobscot,44.8988658,-68.6832262
+c72,Orono Spectral Solutions,Orono,Maine,Penobscot,44.7959021,-68.8461039
+c73,Sensor Research & Development,Orono,Maine,Penobscot,44.9016197,-68.6885771
+c74,Puritan Medical Products,Guilford,Maine,Piscataquis,45.1690528,-69.392789
+c75,FHC,Bowdoin,Maine,Sagadahoc,44.0331704,-69.9608948
+c76,Kennebec River Biosciences,Richmond,Maine,Sagadahoc,44.0879691,-69.8008231
+c77,Beacon Analytical Systems,Saco,Maine,York,43.5329698,-70.4458761
+c78,Corning Life Sciences,Kennebunk,Maine,York,43.4036462,-70.5656702
+c79,East Coast BIO,North Berwick,Maine,York,43.3071501,-70.7195883
+c80,GVS,Sanford,Maine,York,43.4043635,-70.6984573
+c81,L A W  Calibration,Saco,Maine,York,43.5357876,-70.4314731
+c82,ME Molecular Quality Controls,Saco,Maine,York,43.529808,-70.416901
+c83,Purist,Kennebunkport,Maine,York,43.4378551,-70.4558393
+c84,Spin Analytical,Berwick,Maine,York,43.2368859,-70.8054684
+c85,The Baker Company,Sanford,Maine,York,43.3910357,-70.7198524

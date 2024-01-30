@@ -1,0 +1,904 @@
+sourceId,source,targetId,target
+u1,Bates College,s3,Anthropology
+u1,Bates College,s4,Art and Visual Culture
+u1,Bates College,s6,Biology
+u1,Bates College,s7,Chemistry and Laboratory Sciences
+u1,Bates College,s25,Interdisciplinary Studies
+u1,Bates College,s76,"Science, Technology, and Society"
+u1,Bates College,s11,Economics
+u1,Bates College,s12,Education
+u1,Bates College,s13,English
+u1,Bates College,s24,History
+u1,Bates College,s27,Mathematics
+u1,Bates College,s28,Music
+u1,Bates College,s30,Philosophy
+u1,Bates College,s32,Physics and Astronomy
+u1,Bates College,s33,Politics
+u1,Bates College,s34,Psychology
+u1,Bates College,s37,Sociology
+u2,Beal College,s39,Healthcare
+u2,Beal College,s41,Medicine and Biotechnology
+u2,Beal College,s42,Business
+u2,Beal College,s43,Welding
+u3,Bowdoin College,s3,Anthropology
+u3,Bowdoin College,s25,Interdisciplinary Studies
+u3,Bowdoin College,s4,Art and Visual Culture
+u3,Bowdoin College,s7,Chemistry and Laboratory Sciences
+u3,Bowdoin College,s6,Biology
+u3,Bowdoin College,s51,Computer Science
+u3,Bowdoin College,s76,"Science, Technology, and Society"
+u3,Bowdoin College,s11,Economics
+u3,Bowdoin College,s12,Education
+u3,Bowdoin College,s53,Engineering
+u3,Bowdoin College,s13,English
+u3,Bowdoin College,s24,History
+u3,Bowdoin College,s27,Mathematics
+u3,Bowdoin College,s28,Music
+u3,Bowdoin College,s30,Philosophy
+u3,Bowdoin College,s58,Physics
+u3,Bowdoin College,s34,Psychology
+u3,Bowdoin College,s59,Religion
+u3,Bowdoin College,s337,Human Services
+u3,Bowdoin College,s37,Sociology
+u4,Colby College,s3,Anthropology
+u4,Colby College,s4,Art and Visual Culture
+u4,Colby College,s6,Biology
+u4,Colby College,s7,Chemistry and Laboratory Sciences
+u4,Colby College,s51,Computer Science
+u4,Colby College,s11,Economics
+u4,Colby College,s12,Education
+u4,Colby College,s13,English
+u4,Colby College,s25,Interdisciplinary Studies
+u4,Colby College,s67,Geology
+u4,Colby College,s70,Government
+u4,Colby College,s24,History
+u4,Colby College,s337,Human Services
+u4,Colby College,s27,Mathematics
+u4,Colby College,s28,Music
+u4,Colby College,s30,Philosophy
+u4,Colby College,s32,Physics and Astronomy
+u4,Colby College,s34,Psychology
+u4,Colby College,s76,"Science, Technology, and Society"
+u4,Colby College,s37,Sociology
+u4,Colby College,s78,Statistics
+u4,Colby College,s80,Writing Department
+u5,College of the Atlantic,s6,Biology
+u5,College of the Atlantic,s82,Climate Change & Energy
+u5,College of the Atlantic,s83,Community Planning & Ecological Policy
+u5,College of the Atlantic,s4,Art and Visual Culture
+u5,College of the Atlantic,s12,Education
+u5,College of the Atlantic,s25,Interdisciplinary Studies
+u5,College of the Atlantic,s87,Ethnography & Documentary
+u5,College of the Atlantic,s337,Human Services
+u5,College of the Atlantic,s92,Languages
+u5,College of the Atlantic,s76,"Science, Technology, and Society"
+u5,College of the Atlantic,s27,Mathematics
+u5,College of the Atlantic,s42,Business
+u6,Saint Joseph's College,s42,Business
+u6,Saint Joseph's College,s12,Education
+u6,Saint Joseph's College,s39,Healthcare
+u6,Saint Joseph's College,s101,Leadership for sustainable development
+u6,Saint Joseph's College,s76,"Science, Technology, and Society"
+u6,Saint Joseph's College,s105,Theology
+u7,Maine Media College,s4,Art and Visual Culture
+u8,Maine College of Health Professions,s39,Healthcare
+u8,Maine College of Health Professions,s76,"Science, Technology, and Society"
+u9,Maine Maritime Academy,s39,Healthcare
+u9,Maine Maritime Academy,s25,Interdisciplinary Studies
+u9,Maine Maritime Academy,s76,"Science, Technology, and Society"
+u9,Maine Maritime Academy,s27,Mathematics
+u9,Maine Maritime Academy,s42,Business
+u9,Maine Maritime Academy,s127,Management
+u9,Maine Maritime Academy,s6,Biology
+u9,Maine Maritime Academy,s53,Engineering
+u10,Maine College of Art,s142,Academic Affairs
+u10,Maine College of Art,s4,Art and Visual Culture
+u10,Maine College of Art,s3,Anthropology
+u10,Maine College of Art,s146,Ceramics
+u10,Maine College of Art,s337,Human Services
+u10,Maine College of Art,s149,Graphic Design
+u10,Maine College of Art,s150,Humanities
+u10,Maine College of Art,s151,Illustration
+u10,Maine College of Art,s152,Metalsmithing & Jewelry
+u10,Maine College of Art,s28,Music
+u10,Maine College of Art,s76,"Science, Technology, and Society"
+u10,Maine College of Art,s154,Painting
+u10,Maine College of Art,s30,Philosophy
+u10,Maine College of Art,s155,Photography
+u10,Maine College of Art,s156,Printmaking
+u10,Maine College of Art,s157,Public Engagement
+u10,Maine College of Art,s158,Sculpture
+u10,Maine College of Art,s164,World History
+u11,New England Bible College,s25,Interdisciplinary Studies
+u11,New England Bible College,s4,Art and Visual Culture
+u12,Husson University,s170,Accounting
+u12,Husson University,s127,Management
+u12,Husson University,s25,Interdisciplinary Studies
+u12,Husson University,s76,"Science, Technology, and Society"
+u12,Husson University,s175,Communications
+u12,Husson University,s39,Healthcare
+u12,Husson University,s337,Human Services
+u12,Husson University,s6,Biology
+u12,Husson University,s7,Chemistry and Laboratory Sciences
+u12,Husson University,s34,Psychology
+u13,Salt Institute for Documentary Studies,s4,Art and Visual Culture
+u13,Salt Institute for Documentary Studies,s187,Podcasting
+u13,Salt Institute for Documentary Studies,s188,Radio
+u15,Thomas College,s170,Accounting
+u15,Thomas College,s27,Mathematics
+u15,Thomas College,s42,Business
+u15,Thomas College,s4,Art and Visual Culture
+u15,Thomas College,s175,Communications
+u15,Thomas College,s51,Computer Science
+u15,Thomas College,s197,Criminal Justice
+u15,Thomas College,s198,Cybersecurity
+u15,Thomas College,s127,Management
+u15,Thomas College,s200,Digital Media
+u15,Thomas College,s12,Education
+u15,Thomas College,s13,English
+u15,Thomas College,s203,Entrepreneurship
+u15,Thomas College,s25,Interdisciplinary Studies
+u15,Thomas College,s205,Esports and Gaming Administration
+u15,Thomas College,s206,Finance
+u15,Thomas College,s76,"Science, Technology, and Society"
+u15,Thomas College,s34,Psychology
+u16,Unity College,s39,Healthcare
+u16,Unity College,s76,"Science, Technology, and Society"
+u16,Unity College,s216,Conservation Law Enforcement
+u16,Unity College,s25,Interdisciplinary Studies
+u16,Unity College,s6,Biology
+u16,Unity College,s127,Management
+u16,Unity College,s222,Sustainable Horticulture
+u16,Unity College,s223,Tourism Destination Management
+u16,Unity College,s226,Climate Change Adaptation & Resilience
+u17,University of Maine - Orono,s337,Human Services
+u17,University of Maine - Orono,s12,Education
+u17,University of Maine - Orono,s233,Kinesiology and Physical Educaiton
+u17,University of Maine - Orono,s3,Anthropology
+u17,University of Maine - Orono,s4,Art and Visual Culture
+u17,University of Maine - Orono,s175,Communications
+u17,University of Maine - Orono,s7,Chemistry and Laboratory Sciences
+u17,University of Maine - Orono,s51,Computer Science
+u17,University of Maine - Orono,s13,English
+u17,University of Maine - Orono,s237,Explorations
+u17,University of Maine - Orono,s24,History
+u17,University of Maine - Orono,s239,Human Dimensions of Climate Change
+u17,University of Maine - Orono,s240,International Affairs
+u17,University of Maine - Orono,s241,Journalism
+u17,University of Maine - Orono,s27,Mathematics
+u17,University of Maine - Orono,s25,Interdisciplinary Studies
+u17,University of Maine - Orono,s28,Music
+u17,University of Maine - Orono,s30,Philosophy
+u17,University of Maine - Orono,s32,Physics and Astronomy
+u17,University of Maine - Orono,s76,"Science, Technology, and Society"
+u17,University of Maine - Orono,s246,Pre-Law
+u17,University of Maine - Orono,s34,Psychology
+u17,University of Maine - Orono,s37,Sociology
+u17,University of Maine - Orono,s53,Engineering
+u17,University of Maine - Orono,s170,Accounting
+u17,University of Maine - Orono,s206,Finance
+u17,University of Maine - Orono,s127,Management
+u17,University of Maine - Orono,s264,Marketing
+u17,University of Maine - Orono,s6,Biology
+u17,University of Maine - Orono,s11,Economics
+u17,University of Maine - Orono,s266,Botany
+u17,University of Maine - Orono,s270,Financial Economics
+u17,University of Maine - Orono,s272,Forestry
+u17,University of Maine - Orono,s39,Healthcare
+u17,University of Maine - Orono,s223,Tourism Destination Management
+u17,University of Maine - Orono,s279,Sustainable Agriculture
+u17,University of Maine - Orono,s280,Sustainable Food Systems
+u18,University of Maine at Augusta,s4,Art and Visual Culture
+u18,University of Maine at Augusta,s6,Biology
+u18,University of Maine at Augusta,s42,Business
+u18,University of Maine at Augusta,s51,Computer Science
+u18,University of Maine at Augusta,s198,Cybersecurity
+u18,University of Maine at Augusta,s12,Education
+u18,University of Maine at Augusta,s53,Engineering
+u18,University of Maine at Augusta,s13,English
+u18,University of Maine at Augusta,s25,Interdisciplinary Studies
+u18,University of Maine at Augusta,s39,Healthcare
+u18,University of Maine at Augusta,s76,"Science, Technology, and Society"
+u18,University of Maine at Augusta,s284,Architecture
+u18,University of Maine at Augusta,s285,Aviation
+u18,University of Maine at Augusta,s291,Public Administration
+u19,University of Maine at Farmington,s3,Anthropology
+u19,University of Maine at Farmington,s4,Art and Visual Culture
+u19,University of Maine at Farmington,s6,Biology
+u19,University of Maine at Farmington,s42,Business
+u19,University of Maine at Farmington,s51,Computer Science
+u19,University of Maine at Farmington,s12,Education
+u19,University of Maine at Farmington,s13,English
+u19,University of Maine at Farmington,s24,History
+u19,University of Maine at Farmington,s25,Interdisciplinary Studies
+u19,University of Maine at Farmington,s28,Music
+u19,University of Maine at Farmington,s39,Healthcare
+u19,University of Maine at Farmington,s76,"Science, Technology, and Society"
+u19,University of Maine at Farmington,s246,Pre-Law
+u19,University of Maine at Farmington,s34,Psychology
+u19,University of Maine at Farmington,s293,Alpine Operations
+u19,University of Maine at Farmington,s296,Chiropractic
+u19,University of Maine at Farmington,s297,Counseling
+u19,University of Maine at Farmington,s303,Counseling Psychology
+u19,University of Maine at Farmington,s53,Engineering
+u19,University of Maine at Farmington,s337,Human Services
+u19,University of Maine at Farmington,s311,Pre-MBA
+u19,University of Maine at Farmington,s315,Web Media & Design
+u19,University of Maine at Farmington,s316,World Languages
+u20,University of Maine at Fort Kent,s6,Biology
+u20,University of Maine at Fort Kent,s216,Conservation Law Enforcement
+u20,University of Maine at Fort Kent,s12,Education
+u20,University of Maine at Fort Kent,s25,Interdisciplinary Studies
+u20,University of Maine at Fort Kent,s39,Healthcare
+u20,University of Maine at Fort Kent,s127,Management
+u20,University of Maine at Fort Kent,s4,Art and Visual Culture
+u20,University of Maine at Fort Kent,s76,"Science, Technology, and Society"
+u20,University of Maine at Fort Kent,s51,Computer Science
+u20,University of Maine at Fort Kent,s325,Rural Public Safety Administration
+u21,University of Maine at Machias,s25,Interdisciplinary Studies
+u21,University of Maine at Machias,s12,Education
+u21,University of Maine at Machias,s6,Biology
+u21,University of Maine at Machias,s53,Engineering
+u21,University of Maine at Machias,s39,Healthcare
+u21,University of Maine at Machias,s4,Art and Visual Culture
+u21,University of Maine at Machias,s329,Outdoor Recreation & Leadership
+u21,University of Maine at Machias,s127,Management
+u22,University of Maine at Presque Isle,s170,Accounting
+u22,University of Maine at Presque Isle,s76,"Science, Technology, and Society"
+u22,University of Maine at Presque Isle,s4,Art and Visual Culture
+u22,University of Maine at Presque Isle,s6,Biology
+u22,University of Maine at Presque Isle,s42,Business
+u22,University of Maine at Presque Isle,s51,Computer Science
+u22,University of Maine at Presque Isle,s197,Criminal Justice
+u22,University of Maine at Presque Isle,s198,Cybersecurity
+u22,University of Maine at Presque Isle,s53,Engineering
+u22,University of Maine at Presque Isle,s307,Energy Development & Policy
+u22,University of Maine at Presque Isle,s13,English
+u22,University of Maine at Presque Isle,s25,Interdisciplinary Studies
+u22,University of Maine at Presque Isle,s39,Healthcare
+u22,University of Maine at Presque Isle,s27,Mathematics
+u22,University of Maine at Presque Isle,s12,Education
+u22,University of Maine at Presque Isle,s336,Geographic Information Systems
+u22,University of Maine at Presque Isle,s337,Human Services
+u22,University of Maine at Presque Isle,s127,Management
+u22,University of Maine at Presque Isle,s343,Professional Communciation and Journalism
+u23,University of Maine Cooperative Extension,s279,Sustainable Agriculture
+u23,University of Maine Cooperative Extension,s42,Business
+u23,University of Maine Cooperative Extension,s39,Healthcare
+u23,University of Maine Cooperative Extension,s337,Human Services
+u23,University of Maine Cooperative Extension,s352,Natural Resources
+u25,University of New England,s27,Mathematics
+u25,University of New England,s7,Chemistry and Laboratory Sciences
+u25,University of New England,s179,Athletic Training
+u25,University of New England,s42,Business
+u25,University of New England,s4,Art and Visual Culture
+u25,University of New England,s12,Education
+u25,University of New England,s13,English
+u25,University of New England,s25,Interdisciplinary Studies
+u25,University of New England,s24,History
+u25,University of New England,s39,Healthcare
+u25,University of New England,s76,"Science, Technology, and Society"
+u25,University of New England,s34,Psychology
+u25,University of New England,s37,Sociology
+u25,University of New England,s279,Sustainable Agriculture
+u25,University of New England,s361,Criminology
+u25,University of New England,s362,Data Science
+u25,University of New England,s6,Biology
+u25,University of New England,s127,Management
+u26,University of Southern Maine,s170,Accounting
+u26,University of Southern Maine,s4,Art and Visual Culture
+u26,University of Southern Maine,s3,Anthropology
+u26,University of Southern Maine,s78,Statistics
+u26,University of Southern Maine,s6,Biology
+u26,University of Southern Maine,s7,Chemistry and Laboratory Sciences
+u26,University of Southern Maine,s175,Communications
+u26,University of Southern Maine,s51,Computer Science
+u26,University of Southern Maine,s361,Criminology
+u26,University of Southern Maine,s198,Cybersecurity
+u26,University of Southern Maine,s11,Economics
+u26,University of Southern Maine,s12,Education
+u26,University of Southern Maine,s13,English
+u26,University of Southern Maine,s25,Interdisciplinary Studies
+u26,University of Southern Maine,s206,Finance
+u26,University of Southern Maine,s39,Healthcare
+u26,University of Southern Maine,s24,History
+u26,University of Southern Maine,s127,Management
+u26,University of Southern Maine,s264,Marketing
+u26,University of Southern Maine,s27,Mathematics
+u26,University of Southern Maine,s53,Engineering
+u26,University of Southern Maine,s28,Music
+u26,University of Southern Maine,s337,Human Services
+u26,University of Southern Maine,s58,Physics
+u26,University of Southern Maine,s76,"Science, Technology, and Society"
+u26,University of Southern Maine,s34,Psychology
+u26,University of Southern Maine,s37,Sociology
+u26,University of Southern Maine,s279,Sustainable Agriculture
+u26,University of Southern Maine,s390,Sustainable Cultures and Communities
+u26,University of Southern Maine,s395,Linguistics
+u26,University of Southern Maine,s223,Tourism Destination Management
+s6,Biology,c6,Biochek USA Corporation
+s6,Biology,c8,Dermalogix Partners
+s6,Biology,c16,InSphero
+s6,Biology,c20,ME Medical Center Research Institute
+s6,Biology,c29,Virostat
+s6,Biology,c35,Capricorn Products
+s6,Biology,c37,Covetrus
+s6,Biology,c38,Dechra
+s6,Biology,c39,EnviroLogix
+s6,Biology,c41,Gulf of Maine Research Institute
+s6,Biology,c42,ImmuCell
+s6,Biology,c43,MedRhythms
+s6,Biology,c46,SolidPhase
+s6,Biology,c50,Coagulation Sciences
+s6,Biology,c51,GenoTyping Center of America
+s6,Biology,c54,Tempshield
+s6,Biology,c55,The Jackson Laboratory
+s6,Biology,c56,Bushover Biologicals
+s6,Biology,c57,Elanco
+s6,Biology,c59,Notheast Laboratory Services
+s6,Biology,c60,Woods End Laboratories
+s6,Biology,u1,Bates College
+s6,Biology,u3,Bowdoin College
+s6,Biology,u4,Colby College
+s6,Biology,u5,College of the Atlantic
+s6,Biology,u9,Maine Maritime Academy
+s6,Biology,u12,Husson University
+s6,Biology,u16,Unity College
+s6,Biology,u17,University of Maine - Orono
+s6,Biology,u18,University of Maine at Augusta
+s6,Biology,u19,University of Maine at Farmington
+s6,Biology,u20,University of Maine at Fort Kent
+s6,Biology,u21,University of Maine at Machias
+s6,Biology,u22,University of Maine at Presque Isle
+s6,Biology,u25,University of New England
+s6,Biology,u26,University of Southern Maine
+s7,Chemistry and Laboratory Sciences,c1,Clariant
+s7,Chemistry and Laboratory Sciences,c5,Artel
+s7,Chemistry and Laboratory Sciences,c6,Biochek USA Corporation
+s7,Chemistry and Laboratory Sciences,c9,Emerson Apparatus
+s7,Chemistry and Laboratory Sciences,c13,Global Biotechnologies
+s7,Chemistry and Laboratory Sciences,c14,IDEXX
+s7,Chemistry and Laboratory Sciences,c16,InSphero
+s7,Chemistry and Laboratory Sciences,c18,LGC Maine Standards
+s7,Chemistry and Laboratory Sciences,c19,Lighthouse Imaging
+s7,Chemistry and Laboratory Sciences,c20,ME Medical Center Research Institute
+s7,Chemistry and Laboratory Sciences,c23,SDIX
+s7,Chemistry and Laboratory Sciences,c29,Virostat
+s7,Chemistry and Laboratory Sciences,c33,BioAnalyte
+s7,Chemistry and Laboratory Sciences,c34,Butterfield Technologies
+s7,Chemistry and Laboratory Sciences,c35,Capricorn Products
+s7,Chemistry and Laboratory Sciences,c36,Clear H20
+s7,Chemistry and Laboratory Sciences,c37,Covetrus
+s7,Chemistry and Laboratory Sciences,c38,Dechra
+s7,Chemistry and Laboratory Sciences,c39,EnviroLogix
+s7,Chemistry and Laboratory Sciences,c40,Gray Optics
+s7,Chemistry and Laboratory Sciences,c42,ImmuCell
+s7,Chemistry and Laboratory Sciences,c46,SolidPhase
+s7,Chemistry and Laboratory Sciences,c50,Coagulation Sciences
+s7,Chemistry and Laboratory Sciences,c53,NovoBiosciences
+s7,Chemistry and Laboratory Sciences,u1,Bates College
+s7,Chemistry and Laboratory Sciences,u3,Bowdoin College
+s7,Chemistry and Laboratory Sciences,u4,Colby College
+s7,Chemistry and Laboratory Sciences,u12,Husson University
+s7,Chemistry and Laboratory Sciences,u17,University of Maine - Orono
+s7,Chemistry and Laboratory Sciences,u25,University of New England
+s7,Chemistry and Laboratory Sciences,u26,University of Southern Maine
+s25,Interdisciplinary Studies,c28,TechPlace
+s25,Interdisciplinary Studies,c41,Gulf of Maine Research Institute
+s25,Interdisciplinary Studies,c56,Bushover Biologicals
+s25,Interdisciplinary Studies,c57,Elanco
+s25,Interdisciplinary Studies,c59,Notheast Laboratory Services
+s25,Interdisciplinary Studies,u1,Bates College
+s25,Interdisciplinary Studies,u3,Bowdoin College
+s25,Interdisciplinary Studies,u4,Colby College
+s25,Interdisciplinary Studies,u5,College of the Atlantic
+s25,Interdisciplinary Studies,u9,Maine Maritime Academy
+s25,Interdisciplinary Studies,u11,New England Bible College
+s25,Interdisciplinary Studies,u12,Husson University
+s25,Interdisciplinary Studies,u15,Thomas College
+s25,Interdisciplinary Studies,u16,Unity College
+s25,Interdisciplinary Studies,u17,University of Maine - Orono
+s25,Interdisciplinary Studies,u18,University of Maine at Augusta
+s25,Interdisciplinary Studies,u19,University of Maine at Farmington
+s25,Interdisciplinary Studies,u20,University of Maine at Fort Kent
+s25,Interdisciplinary Studies,u21,University of Maine at Machias
+s25,Interdisciplinary Studies,u22,University of Maine at Presque Isle
+s25,Interdisciplinary Studies,u25,University of New England
+s25,Interdisciplinary Studies,u26,University of Southern Maine
+s28,Music,c43,MedRhythms
+s28,Music,u1,Bates College
+s28,Music,u3,Bowdoin College
+s28,Music,u4,Colby College
+s28,Music,u10,Maine College of Art
+s28,Music,u17,University of Maine - Orono
+s28,Music,u19,University of Maine at Farmington
+s28,Music,u26,University of Southern Maine
+s39,Healthcare,c4,Abbot Diagnostics of Scarborough
+s39,Healthcare,c11,Fluid Imaging Technologies
+s39,Healthcare,c14,IDEXX
+s39,Healthcare,c20,ME Medical Center Research Institute
+s39,Healthcare,c24,Sea Run Holdings
+s39,Healthcare,c43,MedRhythms
+s39,Healthcare,c44,Nova Analytic Labs
+s39,Healthcare,c47,Solstice Corporation
+s39,Healthcare,c48,Molnlycke
+s39,Healthcare,c49,Armaid
+s39,Healthcare,c50,Coagulation Sciences
+s39,Healthcare,c51,GenoTyping Center of America
+s39,Healthcare,c52,MDI Biological Laboratory
+s39,Healthcare,c53,NovoBiosciences
+s39,Healthcare,c55,The Jackson Laboratory
+s39,Healthcare,c59,Notheast Laboratory Services
+s39,Healthcare,u2,Beal College
+s39,Healthcare,u6,Saint Joseph's College
+s39,Healthcare,u8,Maine College of Health Professions
+s39,Healthcare,u9,Maine Maritime Academy
+s39,Healthcare,u12,Husson University
+s39,Healthcare,u16,Unity College
+s39,Healthcare,u17,University of Maine - Orono
+s39,Healthcare,u18,University of Maine at Augusta
+s39,Healthcare,u19,University of Maine at Farmington
+s39,Healthcare,u20,University of Maine at Fort Kent
+s39,Healthcare,u21,University of Maine at Machias
+s39,Healthcare,u22,University of Maine at Presque Isle
+s39,Healthcare,u23,University of Maine Cooperative Extension
+s39,Healthcare,u25,University of New England
+s39,Healthcare,u26,University of Southern Maine
+s41,Medicine and Biotechnology,c11,Fluid Imaging Technologies
+s41,Medicine and Biotechnology,c13,Global Biotechnologies
+s41,Medicine and Biotechnology,c14,IDEXX
+s41,Medicine and Biotechnology,c17,Leiner Optics
+s41,Medicine and Biotechnology,c18,LGC Maine Standards
+s41,Medicine and Biotechnology,c20,ME Medical Center Research Institute
+s41,Medicine and Biotechnology,c21,Optimum Imaging Diagnostics
+s41,Medicine and Biotechnology,c23,SDIX
+s41,Medicine and Biotechnology,c24,Sea Run Holdings
+s41,Medicine and Biotechnology,c25,Spirometrics Medical Equipment
+s41,Medicine and Biotechnology,c26,Sun Diagnostics
+s41,Medicine and Biotechnology,c29,Virostat
+s41,Medicine and Biotechnology,c30,VueTek Scientific
+s41,Medicine and Biotechnology,c31,BBI Solutions
+s41,Medicine and Biotechnology,c32,Bio Rad
+s41,Medicine and Biotechnology,c34,Butterfield Technologies
+s41,Medicine and Biotechnology,c36,Clear H20
+s41,Medicine and Biotechnology,c37,Covetrus
+s41,Medicine and Biotechnology,c38,Dechra
+s41,Medicine and Biotechnology,c40,Gray Optics
+s41,Medicine and Biotechnology,c42,ImmuCell
+s41,Medicine and Biotechnology,c43,MedRhythms
+s41,Medicine and Biotechnology,c44,Nova Analytic Labs
+s41,Medicine and Biotechnology,c45,RockStep Solutions
+s41,Medicine and Biotechnology,c46,SolidPhase
+s41,Medicine and Biotechnology,c48,Molnlycke
+s41,Medicine and Biotechnology,c50,Coagulation Sciences
+s41,Medicine and Biotechnology,c53,NovoBiosciences
+s41,Medicine and Biotechnology,c59,Notheast Laboratory Services
+s41,Medicine and Biotechnology,u2,Beal College
+s42,Business,c14,IDEXX
+s42,Business,c28,TechPlace
+s42,Business,c37,Covetrus
+s42,Business,u2,Beal College
+s42,Business,u5,College of the Atlantic
+s42,Business,u6,Saint Joseph's College
+s42,Business,u9,Maine Maritime Academy
+s42,Business,u15,Thomas College
+s42,Business,u18,University of Maine at Augusta
+s42,Business,u19,University of Maine at Farmington
+s42,Business,u22,University of Maine at Presque Isle
+s42,Business,u23,University of Maine Cooperative Extension
+s42,Business,u25,University of New England
+s43,Welding,c22,Saunders Electronics
+s43,Welding,u2,Beal College
+s51,Computer Science,c10,Enercon Technologies
+s51,Computer Science,c14,IDEXX
+s51,Computer Science,c33,BioAnalyte
+s51,Computer Science,c37,Covetrus
+s51,Computer Science,c54,Tempshield
+s51,Computer Science,u3,Bowdoin College
+s51,Computer Science,u4,Colby College
+s51,Computer Science,u15,Thomas College
+s51,Computer Science,u17,University of Maine - Orono
+s51,Computer Science,u18,University of Maine at Augusta
+s51,Computer Science,u19,University of Maine at Farmington
+s51,Computer Science,u20,University of Maine at Fort Kent
+s51,Computer Science,u22,University of Maine at Presque Isle
+s51,Computer Science,u26,University of Southern Maine
+s53,Engineering,c5,Artel
+s53,Engineering,c6,Biochek USA Corporation
+s53,Engineering,c7,CAPE Technologies
+s53,Engineering,c10,Enercon Technologies
+s53,Engineering,c12,Formworks
+s53,Engineering,c15,Insightful Products
+s53,Engineering,c17,Leiner Optics
+s53,Engineering,c18,LGC Maine Standards
+s53,Engineering,c19,Lighthouse Imaging
+s53,Engineering,c22,Saunders Electronics
+s53,Engineering,c26,Sun Diagnostics
+s53,Engineering,c27,Syris Scientific
+s53,Engineering,c28,TechPlace
+s53,Engineering,c37,Covetrus
+s53,Engineering,c40,Gray Optics
+s53,Engineering,c47,Solstice Corporation
+s53,Engineering,c48,Molnlycke
+s53,Engineering,c49,Armaid
+s53,Engineering,c58,Global Protien Products
+s53,Engineering,u3,Bowdoin College
+s53,Engineering,u9,Maine Maritime Academy
+s53,Engineering,u17,University of Maine - Orono
+s53,Engineering,u18,University of Maine at Augusta
+s53,Engineering,u19,University of Maine at Farmington
+s53,Engineering,u21,University of Maine at Machias
+s53,Engineering,u22,University of Maine at Presque Isle
+s53,Engineering,u26,University of Southern Maine
+s67,Geology,c3,Arookstook Testing & Consulting Lab
+s67,Geology,c60,Woods End Laboratories
+s67,Geology,u4,Colby College
+s76,"Science, Technology, and Society",c12,Formworks
+s76,"Science, Technology, and Society",c19,Lighthouse Imaging
+s76,"Science, Technology, and Society",c21,Optimum Imaging Diagnostics
+s76,"Science, Technology, and Society",c28,TechPlace
+s76,"Science, Technology, and Society",c31,BBI Solutions
+s76,"Science, Technology, and Society",c32,Bio Rad
+s76,"Science, Technology, and Society",c41,Gulf of Maine Research Institute
+s76,"Science, Technology, and Society",c43,MedRhythms
+s76,"Science, Technology, and Society",c44,Nova Analytic Labs
+s76,"Science, Technology, and Society",c45,RockStep Solutions
+s76,"Science, Technology, and Society",c46,SolidPhase
+s76,"Science, Technology, and Society",c47,Solstice Corporation
+s76,"Science, Technology, and Society",c48,Molnlycke
+s76,"Science, Technology, and Society",c49,Armaid
+s76,"Science, Technology, and Society",c51,GenoTyping Center of America
+s76,"Science, Technology, and Society",c55,The Jackson Laboratory
+s76,"Science, Technology, and Society",c56,Bushover Biologicals
+s76,"Science, Technology, and Society",c57,Elanco
+s76,"Science, Technology, and Society",c58,Global Protien Products
+s76,"Science, Technology, and Society",c59,Notheast Laboratory Services
+s76,"Science, Technology, and Society",u1,Bates College
+s76,"Science, Technology, and Society",u3,Bowdoin College
+s76,"Science, Technology, and Society",u4,Colby College
+s76,"Science, Technology, and Society",u5,College of the Atlantic
+s76,"Science, Technology, and Society",u6,Saint Joseph's College
+s76,"Science, Technology, and Society",u8,Maine College of Health Professions
+s76,"Science, Technology, and Society",u9,Maine Maritime Academy
+s76,"Science, Technology, and Society",u10,Maine College of Art
+s76,"Science, Technology, and Society",u12,Husson University
+s76,"Science, Technology, and Society",u15,Thomas College
+s76,"Science, Technology, and Society",u16,Unity College
+s76,"Science, Technology, and Society",u17,University of Maine - Orono
+s76,"Science, Technology, and Society",u18,University of Maine at Augusta
+s76,"Science, Technology, and Society",u19,University of Maine at Farmington
+s76,"Science, Technology, and Society",u20,University of Maine at Fort Kent
+s76,"Science, Technology, and Society",u22,University of Maine at Presque Isle
+s76,"Science, Technology, and Society",u25,University of New England
+s76,"Science, Technology, and Society",u26,University of Southern Maine
+s82,Climate Change & Energy,c41,Gulf of Maine Research Institute
+s82,Climate Change & Energy,u5,College of the Atlantic
+s83,Community Planning & Ecological Policy,c42,ImmuCell
+s83,Community Planning & Ecological Policy,u5,College of the Atlantic
+s101,Leadership for sustainable development,c55,The Jackson Laboratory
+s101,Leadership for sustainable development,u6,Saint Joseph's College
+s127,Management,c19,Lighthouse Imaging
+s127,Management,c20,ME Medical Center Research Institute
+s127,Management,c22,Saunders Electronics
+s127,Management,c28,TechPlace
+s127,Management,c31,BBI Solutions
+s127,Management,c32,Bio Rad
+s127,Management,c51,GenoTyping Center of America
+s127,Management,c54,Tempshield
+s127,Management,c55,The Jackson Laboratory
+s127,Management,c60,Woods End Laboratories
+s127,Management,u9,Maine Maritime Academy
+s127,Management,u12,Husson University
+s127,Management,u15,Thomas College
+s127,Management,u16,Unity College
+s127,Management,u17,University of Maine - Orono
+s127,Management,u20,University of Maine at Fort Kent
+s127,Management,u21,University of Maine at Machias
+s127,Management,u22,University of Maine at Presque Isle
+s127,Management,u25,University of New England
+s127,Management,u26,University of Southern Maine
+s152,Metalsmithing & Jewelry,c2,Acme Monaco Corporation
+s152,Metalsmithing & Jewelry,c22,Saunders Electronics
+s152,Metalsmithing & Jewelry,u10,Maine College of Art
+s157,Public Engagement,c56,Bushover Biologicals
+s157,Public Engagement,c57,Elanco
+s157,Public Engagement,u10,Maine College of Art
+s170,Accounting,c3,Arookstook Testing & Consulting Lab
+s170,Accounting,c28,TechPlace
+s170,Accounting,u12,Husson University
+s170,Accounting,u15,Thomas College
+s170,Accounting,u17,University of Maine - Orono
+s170,Accounting,u22,University of Maine at Presque Isle
+s170,Accounting,u26,University of Southern Maine
+s179,Athletic Training,c49,Armaid
+s179,Athletic Training,u25,University of New England
+s198,Cybersecurity,c37,Covetrus
+s198,Cybersecurity,u15,Thomas College
+s198,Cybersecurity,u18,University of Maine at Augusta
+s198,Cybersecurity,u22,University of Maine at Presque Isle
+s198,Cybersecurity,u26,University of Southern Maine
+s200,Digital Media,c51,GenoTyping Center of America
+s200,Digital Media,u15,Thomas College
+s203,Entrepreneurship,c28,TechPlace
+s203,Entrepreneurship,u15,Thomas College
+s216,Conservation Law Enforcement,c41,Gulf of Maine Research Institute
+s216,Conservation Law Enforcement,u16,Unity College
+s216,Conservation Law Enforcement,u20,University of Maine at Fort Kent
+s222,Sustainable Horticulture,c41,Gulf of Maine Research Institute
+s222,Sustainable Horticulture,u16,Unity College
+s226,Climate Change Adaptation & Resilience,c3,Arookstook Testing & Consulting Lab
+s226,Climate Change Adaptation & Resilience,c41,Gulf of Maine Research Institute
+s226,Climate Change Adaptation & Resilience,u16,Unity College
+s237,Explorations,c52,MDI Biological Laboratory
+s237,Explorations,c55,The Jackson Laboratory
+s237,Explorations,u17,University of Maine - Orono
+s264,Marketing,c28,TechPlace
+s264,Marketing,u17,University of Maine - Orono
+s264,Marketing,u26,University of Southern Maine
+s266,Botany,c39,EnviroLogix
+s266,Botany,c41,Gulf of Maine Research Institute
+s266,Botany,c52,MDI Biological Laboratory
+s266,Botany,c53,NovoBiosciences
+s266,Botany,c60,Woods End Laboratories
+s266,Botany,u17,University of Maine - Orono
+s272,Forestry,c41,Gulf of Maine Research Institute
+s272,Forestry,u17,University of Maine - Orono
+s279,Sustainable Agriculture,c3,Arookstook Testing & Consulting Lab
+s279,Sustainable Agriculture,c36,Clear H20
+s279,Sustainable Agriculture,c39,EnviroLogix
+s279,Sustainable Agriculture,c41,Gulf of Maine Research Institute
+s279,Sustainable Agriculture,c42,ImmuCell
+s279,Sustainable Agriculture,c54,Tempshield
+s279,Sustainable Agriculture,c60,Woods End Laboratories
+s279,Sustainable Agriculture,u17,University of Maine - Orono
+s279,Sustainable Agriculture,u23,University of Maine Cooperative Extension
+s279,Sustainable Agriculture,u25,University of New England
+s279,Sustainable Agriculture,u26,University of Southern Maine
+s280,Sustainable Food Systems,c36,Clear H20
+s280,Sustainable Food Systems,c39,EnviroLogix
+s280,Sustainable Food Systems,c41,Gulf of Maine Research Institute
+s280,Sustainable Food Systems,c42,ImmuCell
+s280,Sustainable Food Systems,u17,University of Maine - Orono
+s284,Architecture,c12,Formworks
+s284,Architecture,u18,University of Maine at Augusta
+s307,Energy Development & Policy,c12,Formworks
+s307,Energy Development & Policy,u22,University of Maine at Presque Isle
+s336,Geographic Information Systems,c60,Woods End Laboratories
+s336,Geographic Information Systems,u22,University of Maine at Presque Isle
+s337,Human Services,c52,MDI Biological Laboratory
+s337,Human Services,c54,Tempshield
+s337,Human Services,c58,Global Protien Products
+s337,Human Services,u3,Bowdoin College
+s337,Human Services,u4,Colby College
+s337,Human Services,u5,College of the Atlantic
+s337,Human Services,u10,Maine College of Art
+s337,Human Services,u12,Husson University
+s337,Human Services,u17,University of Maine - Orono
+s337,Human Services,u19,University of Maine at Farmington
+s337,Human Services,u22,University of Maine at Presque Isle
+s337,Human Services,u23,University of Maine Cooperative Extension
+s337,Human Services,u26,University of Southern Maine
+s352,Natural Resources,c3,Arookstook Testing & Consulting Lab
+s352,Natural Resources,c41,Gulf of Maine Research Institute
+s352,Natural Resources,c60,Woods End Laboratories
+s352,Natural Resources,u23,University of Maine Cooperative Extension
+s362,Data Science,c4,Abbot Diagnostics of Scarborough
+s362,Data Science,c11,Fluid Imaging Technologies
+s362,Data Science,c14,IDEXX
+s362,Data Science,u25,University of New England
+s390,Sustainable Cultures and Communities,c12,Formworks
+s390,Sustainable Cultures and Communities,c39,EnviroLogix
+s390,Sustainable Cultures and Communities,c52,MDI Biological Laboratory
+s390,Sustainable Cultures and Communities,c58,Global Protien Products
+s390,Sustainable Cultures and Communities,c60,Woods End Laboratories
+s390,Sustainable Cultures and Communities,u26,University of Southern Maine
+c1,Clariant,s7,Chemistry and Laboratory Sciences
+c2,Acme Monaco Corporation,s152,Metalsmithing & Jewelry
+c3,Arookstook Testing & Consulting Lab,s226,Climate Change Adaptation & Resilience
+c3,Arookstook Testing & Consulting Lab,s352,Natural Resources
+c3,Arookstook Testing & Consulting Lab,s67,Geology
+c3,Arookstook Testing & Consulting Lab,s170,Accounting
+c3,Arookstook Testing & Consulting Lab,s279,Sustainable Agriculture
+c4,Abbot Diagnostics of Scarborough,s39,Healthcare
+c4,Abbot Diagnostics of Scarborough,s362,Data Science
+c5,Artel,s7,Chemistry and Laboratory Sciences
+c5,Artel,s53,Engineering
+c6,Biochek USA Corporation,s6,Biology
+c6,Biochek USA Corporation,s7,Chemistry and Laboratory Sciences
+c6,Biochek USA Corporation,s53,Engineering
+c7,CAPE Technologies,s53,Engineering
+c8,Dermalogix Partners,s6,Biology
+c9,Emerson Apparatus,s7,Chemistry and Laboratory Sciences
+c10,Enercon Technologies,s51,Computer Science
+c10,Enercon Technologies,s53,Engineering
+c11,Fluid Imaging Technologies,s39,Healthcare
+c11,Fluid Imaging Technologies,s41,Medicine and Biotechnology
+c11,Fluid Imaging Technologies,s362,Data Science
+c12,Formworks,s390,Sustainable Cultures and Communities
+c12,Formworks,s307,Energy Development & Policy
+c12,Formworks,s76,"Science, Technology, and Society"
+c12,Formworks,s53,Engineering
+c12,Formworks,s284,Architecture
+c13,Global Biotechnologies,s7,Chemistry and Laboratory Sciences
+c13,Global Biotechnologies,s41,Medicine and Biotechnology
+c14,IDEXX,s7,Chemistry and Laboratory Sciences
+c14,IDEXX,s39,Healthcare
+c14,IDEXX,s41,Medicine and Biotechnology
+c14,IDEXX,s42,Business
+c14,IDEXX,s51,Computer Science
+c14,IDEXX,s362,Data Science
+c15,Insightful Products,s53,Engineering
+c16,InSphero,s6,Biology
+c16,InSphero,s7,Chemistry and Laboratory Sciences
+c17,Leiner Optics,s41,Medicine and Biotechnology
+c17,Leiner Optics,s53,Engineering
+c18,LGC Maine Standards,s41,Medicine and Biotechnology
+c18,LGC Maine Standards,s7,Chemistry and Laboratory Sciences
+c18,LGC Maine Standards,s53,Engineering
+c19,Lighthouse Imaging,s7,Chemistry and Laboratory Sciences
+c19,Lighthouse Imaging,s53,Engineering
+c19,Lighthouse Imaging,s76,"Science, Technology, and Society"
+c19,Lighthouse Imaging,s127,Management
+c20,ME Medical Center Research Institute,s6,Biology
+c20,ME Medical Center Research Institute,s7,Chemistry and Laboratory Sciences
+c20,ME Medical Center Research Institute,s39,Healthcare
+c20,ME Medical Center Research Institute,s41,Medicine and Biotechnology
+c20,ME Medical Center Research Institute,s127,Management
+c21,Optimum Imaging Diagnostics,s41,Medicine and Biotechnology
+c21,Optimum Imaging Diagnostics,s76,"Science, Technology, and Society"
+c22,Saunders Electronics,s152,Metalsmithing & Jewelry
+c22,Saunders Electronics,s43,Welding
+c22,Saunders Electronics,s53,Engineering
+c22,Saunders Electronics,s127,Management
+c23,SDIX,s7,Chemistry and Laboratory Sciences
+c23,SDIX,s41,Medicine and Biotechnology
+c24,Sea Run Holdings,s39,Healthcare
+c24,Sea Run Holdings,s41,Medicine and Biotechnology
+c25,Spirometrics Medical Equipment,s41,Medicine and Biotechnology
+c26,Sun Diagnostics,s41,Medicine and Biotechnology
+c26,Sun Diagnostics,s53,Engineering
+c27,Syris Scientific,s53,Engineering
+c28,TechPlace,s25,Interdisciplinary Studies
+c28,TechPlace,s42,Business
+c28,TechPlace,s53,Engineering
+c28,TechPlace,s76,"Science, Technology, and Society"
+c28,TechPlace,s127,Management
+c28,TechPlace,s170,Accounting
+c28,TechPlace,s203,Entrepreneurship
+c28,TechPlace,s264,Marketing
+c29,Virostat,s6,Biology
+c29,Virostat,s7,Chemistry and Laboratory Sciences
+c29,Virostat,s41,Medicine and Biotechnology
+c30,VueTek Scientific,s41,Medicine and Biotechnology
+c31,BBI Solutions,s41,Medicine and Biotechnology
+c31,BBI Solutions,s76,"Science, Technology, and Society"
+c31,BBI Solutions,s127,Management
+c32,Bio Rad,s41,Medicine and Biotechnology
+c32,Bio Rad,s76,"Science, Technology, and Society"
+c32,Bio Rad,s127,Management
+c33,BioAnalyte,s51,Computer Science
+c33,BioAnalyte,s7,Chemistry and Laboratory Sciences
+c34,Butterfield Technologies,s7,Chemistry and Laboratory Sciences
+c34,Butterfield Technologies,s41,Medicine and Biotechnology
+c35,Capricorn Products,s6,Biology
+c35,Capricorn Products,s7,Chemistry and Laboratory Sciences
+c36,Clear H20,s41,Medicine and Biotechnology
+c36,Clear H20,s279,Sustainable Agriculture
+c36,Clear H20,s280,Sustainable Food Systems
+c36,Clear H20,s7,Chemistry and Laboratory Sciences
+c37,Covetrus,s6,Biology
+c37,Covetrus,s7,Chemistry and Laboratory Sciences
+c37,Covetrus,s41,Medicine and Biotechnology
+c37,Covetrus,s42,Business
+c37,Covetrus,s51,Computer Science
+c37,Covetrus,s53,Engineering
+c37,Covetrus,s198,Cybersecurity
+c38,Dechra,s41,Medicine and Biotechnology
+c38,Dechra,s6,Biology
+c38,Dechra,s7,Chemistry and Laboratory Sciences
+c39,EnviroLogix,s6,Biology
+c39,EnviroLogix,s7,Chemistry and Laboratory Sciences
+c39,EnviroLogix,s390,Sustainable Cultures and Communities
+c39,EnviroLogix,s279,Sustainable Agriculture
+c39,EnviroLogix,s280,Sustainable Food Systems
+c39,EnviroLogix,s266,Botany
+c40,Gray Optics,s7,Chemistry and Laboratory Sciences
+c40,Gray Optics,s41,Medicine and Biotechnology
+c40,Gray Optics,s53,Engineering
+c41,Gulf of Maine Research Institute,s6,Biology
+c41,Gulf of Maine Research Institute,s76,"Science, Technology, and Society"
+c41,Gulf of Maine Research Institute,s82,Climate Change & Energy
+c41,Gulf of Maine Research Institute,s222,Sustainable Horticulture
+c41,Gulf of Maine Research Institute,s216,Conservation Law Enforcement
+c41,Gulf of Maine Research Institute,s226,Climate Change Adaptation & Resilience
+c41,Gulf of Maine Research Institute,s266,Botany
+c41,Gulf of Maine Research Institute,s272,Forestry
+c41,Gulf of Maine Research Institute,s279,Sustainable Agriculture
+c41,Gulf of Maine Research Institute,s25,Interdisciplinary Studies
+c41,Gulf of Maine Research Institute,s280,Sustainable Food Systems
+c41,Gulf of Maine Research Institute,s352,Natural Resources
+c42,ImmuCell,s6,Biology
+c42,ImmuCell,s7,Chemistry and Laboratory Sciences
+c42,ImmuCell,s41,Medicine and Biotechnology
+c42,ImmuCell,s83,Community Planning & Ecological Policy
+c42,ImmuCell,s279,Sustainable Agriculture
+c42,ImmuCell,s280,Sustainable Food Systems
+c43,MedRhythms,s6,Biology
+c43,MedRhythms,s28,Music
+c43,MedRhythms,s39,Healthcare
+c43,MedRhythms,s41,Medicine and Biotechnology
+c43,MedRhythms,s76,"Science, Technology, and Society"
+c44,Nova Analytic Labs,s41,Medicine and Biotechnology
+c44,Nova Analytic Labs,s76,"Science, Technology, and Society"
+c44,Nova Analytic Labs,s39,Healthcare
+c45,RockStep Solutions,s41,Medicine and Biotechnology
+c45,RockStep Solutions,s76,"Science, Technology, and Society"
+c46,SolidPhase,s6,Biology
+c46,SolidPhase,s7,Chemistry and Laboratory Sciences
+c46,SolidPhase,s41,Medicine and Biotechnology
+c46,SolidPhase,s76,"Science, Technology, and Society"
+c47,Solstice Corporation,s53,Engineering
+c47,Solstice Corporation,s76,"Science, Technology, and Society"
+c47,Solstice Corporation,s39,Healthcare
+c48,Molnlycke,s39,Healthcare
+c48,Molnlycke,s41,Medicine and Biotechnology
+c48,Molnlycke,s53,Engineering
+c48,Molnlycke,s76,"Science, Technology, and Society"
+c49,Armaid,s53,Engineering
+c49,Armaid,s76,"Science, Technology, and Society"
+c49,Armaid,s179,Athletic Training
+c49,Armaid,s39,Healthcare
+c50,Coagulation Sciences,s6,Biology
+c50,Coagulation Sciences,s7,Chemistry and Laboratory Sciences
+c50,Coagulation Sciences,s39,Healthcare
+c50,Coagulation Sciences,s41,Medicine and Biotechnology
+c51,GenoTyping Center of America,s76,"Science, Technology, and Society"
+c51,GenoTyping Center of America,s127,Management
+c51,GenoTyping Center of America,s6,Biology
+c51,GenoTyping Center of America,s39,Healthcare
+c51,GenoTyping Center of America,s200,Digital Media
+c52,MDI Biological Laboratory,s390,Sustainable Cultures and Communities
+c52,MDI Biological Laboratory,s337,Human Services
+c52,MDI Biological Laboratory,s266,Botany
+c52,MDI Biological Laboratory,s237,Explorations
+c52,MDI Biological Laboratory,s39,Healthcare
+c53,NovoBiosciences,s7,Chemistry and Laboratory Sciences
+c53,NovoBiosciences,s39,Healthcare
+c53,NovoBiosciences,s41,Medicine and Biotechnology
+c53,NovoBiosciences,s266,Botany
+c54,Tempshield,s337,Human Services
+c54,Tempshield,s279,Sustainable Agriculture
+c54,Tempshield,s127,Management
+c54,Tempshield,s51,Computer Science
+c54,Tempshield,s6,Biology
+c55,The Jackson Laboratory,s6,Biology
+c55,The Jackson Laboratory,s39,Healthcare
+c55,The Jackson Laboratory,s76,"Science, Technology, and Society"
+c55,The Jackson Laboratory,s101,Leadership for sustainable development
+c55,The Jackson Laboratory,s127,Management
+c55,The Jackson Laboratory,s237,Explorations
+c56,Bushover Biologicals,s25,Interdisciplinary Studies
+c56,Bushover Biologicals,s6,Biology
+c56,Bushover Biologicals,s76,"Science, Technology, and Society"
+c56,Bushover Biologicals,s157,Public Engagement
+c57,Elanco,s25,Interdisciplinary Studies
+c57,Elanco,s6,Biology
+c57,Elanco,s76,"Science, Technology, and Society"
+c57,Elanco,s157,Public Engagement
+c58,Global Protien Products,s390,Sustainable Cultures and Communities
+c58,Global Protien Products,s337,Human Services
+c58,Global Protien Products,s76,"Science, Technology, and Society"
+c58,Global Protien Products,s53,Engineering
+c59,Notheast Laboratory Services,s6,Biology
+c59,Notheast Laboratory Services,s25,Interdisciplinary Studies
+c59,Notheast Laboratory Services,s41,Medicine and Biotechnology
+c59,Notheast Laboratory Services,s39,Healthcare
+c59,Notheast Laboratory Services,s76,"Science, Technology, and Society"
+c60,Woods End Laboratories,s390,Sustainable Cultures and Communities
+c60,Woods End Laboratories,s352,Natural Resources
+c60,Woods End Laboratories,s336,Geographic Information Systems
+c60,Woods End Laboratories,s279,Sustainable Agriculture
+c60,Woods End Laboratories,s266,Botany
+c60,Woods End Laboratories,s127,Management
+c60,Woods End Laboratories,s6,Biology
+c60,Woods End Laboratories,s67,Geology
