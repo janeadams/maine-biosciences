@@ -21,5 +21,10 @@ Aileen has been coalescing data [here](https://docs.google.com/spreadsheets/d/1E
 
 I aggregated these datasets in agg.ipynb and started visualizing them in vis.ipynb. I also wrote some code to scrape US New & World Report to try to back-fill some of the missing university data.
 
+# TODOS:
 
+- Clean up the web app or build a new one using Python + Plotly + Dash
+- First order users: students
+- Second order users: a company relocating to Maine searching for talent
+- Search terms to support: major, department, school, university
 
